@@ -9,10 +9,12 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, </h1>
         <p className={styles.description}>
-        Bienvenue sur mon portfolio ! Je suis une développeuse front-end récemment formé, passionné par la création d'expériences web innovantes. 
-        Découvrez mes projets et contactez-moi pour discuter de collaborations excitantes!
+          Bienvenue sur mon portfolio ! Je suis une développeuse front-end
+          récemment formée, passionnée par la création d'expériences web
+          innovantes. Découvrez mes projets et contactez-moi pour discuter de
+          collaborations excitantes!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:e.plumey@outlook.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

@@ -1,18 +1,16 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Kasa",
+    "imageSrc": "projects/kasa.png",
+    "description": "Application de location immobilière faite avec React",
+    "skills": ["HTML", "CSS", "React"],
+    "source": "https://github.com/Jenlpl/OCProjet8"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Site de Sophie Bluel",
+    "imageSrc": "projects/sophie-bluel.png",
+    "description": "Site de designer réalisé en HTML, CSS, JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript", "Sass"],
     "source": "https://www.github.com"
   },
   {

@@ -9,14 +9,14 @@
   {
     "title": "Site de Sophie Bluel",
     "imageSrc": "projects/sophie-bluel.png",
-    "description": "Site de designer réalisé en HTML, CSS, JavaScript.",
+    "description": "Portfolio de designer réalisé en HTML, CSS, JavaScript.",
     "skills": ["HTML", "CSS", "JavaScript", "Sass"],
     "source": "https://github.com/Jenlpl/OCProjet6"
   },
   {
     "title": "Argent Bank",
     "imageSrc": "projects/bank-tree.png",
-    "description": "Mise en place d'une application bancaire.",
+    "description": "Mise en place d'une application bancaire avec React et Redux.",
     "skills": ["HTML", "CSS", "React", "Redux"],
     "source": "https://github.com/Jenlpl/OCProjet11"
   }
